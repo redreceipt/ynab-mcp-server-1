@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redreceipt/ynab-mcp-server-1.git"
+    "url": "git+https://github.com/redreceipt/ynab-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/redreceipt/ynab-mcp-server-1/issues"
+    "url": "https://github.com/redreceipt/ynab-mcp-server/issues"
   },
-  "homepage": "https://github.com/redreceipt/ynab-mcp-server-1#readme",
+  "homepage": "https://github.com/redreceipt/ynab-mcp-server#readme",
   "publishConfig": {
     "access": "public"
   },
